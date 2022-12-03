@@ -21,9 +21,9 @@
 
 <?php
 
-if($_GET['page'] === "teste.php"){
+if(isset($_GET['page']) && !empty($_GET['page'])){
     
-    include("teste.php"); // Corrigido
+    include($_GET['page']); // Onde a vulnerabilidade acontece
 
 }else{
     echo "<center>";
