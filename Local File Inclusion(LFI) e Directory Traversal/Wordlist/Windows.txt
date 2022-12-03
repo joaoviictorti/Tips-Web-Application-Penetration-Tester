@@ -1,0 +1,1391 @@
+:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
+C:/MySQL/data/hostname.err
+C:/MySQL/data/mysql-bin.log
+C:/MySQL/data/mysql.err
+C:/MySQL/data/mysql.log
+C:/MySQL/my.cnf
+C:/MySQL/my.ini
+C:/Program Files (x86)/Apache Group/Apache/conf/access.log
+C:/Program Files (x86)/Apache Group/Apache/conf/error.log
+C:/Program Files (x86)/Apache Group/Apache/conf/httpd.conf
+C:/Program Files (x86)/Apache Group/Apache2/conf/httpd.conf
+C:/Program Files (x86)/FileZilla Server/FileZilla Server.xml
+C:/Program Files (x86)/xampp/apache/conf/httpd.conf
+C:/Program Files/Apache Group/Apache/conf/httpd.conf
+C:/Program Files/Apache Group/Apache/logs/access.log
+C:/Program Files/Apache Group/Apache/logs/error.log
+C:/Program Files/Apache Group/Apache2/conf/httpd.conf
+C:/Program Files/FileZilla Server/FileZilla Server.xml
+C:/Program Files/Microsoft SQL Server/MSSQL.1/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL10.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL11.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL12.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL13.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.mdf
+C:/Program Files/MySQL/MySQL Server 5.0/data/hostname.err
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+C:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+C:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+C:/Program Files/MySQL/MySQL Server 5.0/my.ini
+C:/Program Files/MySQL/MySQL Server 5.1/my.ini
+C:/Program Files/MySQL/data/hostname.err
+C:/Program Files/MySQL/data/mysql-bin.log
+C:/Program Files/MySQL/data/mysql.err
+C:/Program Files/MySQL/data/mysql.log
+C:/Program Files/MySQL/my.cnf
+C:/Program Files/MySQL/my.ini
+C:/ProgramFiles/ApacheGroup/Apache/conf/httpd.conf
+C:/ProgramFiles/ApacheGroup/Apache/logs/access.log
+C:/ProgramFiles/ApacheGroup/Apache/logs/error.log
+C:/ProgramFiles/ApacheGroup/Apache2/conf/httpd.conf
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/hostname.err
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/mysql-bin.log
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/mysql.err
+C:/ProgramFiles/MySQL/MySQLServer5.0/data/mysql.log
+C:/ProgramFiles/MySQL/MySQLServer5.0/my.cnf
+C:/ProgramFiles/MySQL/MySQLServer5.0/my.ini
+C:/ProgramFiles/MySQL/data/hostname.err
+C:/ProgramFiles/MySQL/data/mysql-bin.log
+C:/ProgramFiles/MySQL/data/mysql.err
+C:/ProgramFiles/MySQL/data/mysql.log
+C:/ProgramFiles/MySQL/my.cnf
+C:/ProgramFiles/MySQL/my.ini
+C:/ProgramFiles/xampp/apache/conf/httpd.conf
+C:/Users/Administrator/NTUser.dat
+C:/WINDOWS/Repair/SAM
+C:/WINDOWS/System32/drivers/etc/hosts
+C:/WINDOWS/TEMP/
+C:/WINDOWS/php.ini
+C:/WINDOWS/win.ini
+C:/WINNT/php.ini
+C:/WINNT/win.ini
+C:/Windows/Panther/Unattend/Unattended.xml
+C:/Windows/Panther/Unattended.xml
+C:/Windows/System32/inetsrv/config/applicationHost.config
+C:/Windows/System32/inetsrv/config/schema/ASPNET_schema.xml
+C:/Windows/debug/NetSetup.log
+C:/Windows/repair/security
+C:/Windows/repair/system C:/Windows/repair/software
+C:/Windows/system32/config/AppEvent.Evt
+C:/Windows/system32/config/SecEvent.Evt
+C:/Windows/system32/config/default.sav
+C:/Windows/system32/config/regback/default
+C:/Windows/system32/config/regback/sam
+C:/Windows/system32/config/regback/security
+C:/Windows/system32/config/regback/software
+C:/Windows/system32/config/regback/system
+C:/Windows/system32/config/security.sav
+C:/Windows/system32/config/software.sav
+C:/Windows/system32/config/system.sav
+C:/Windows/win.ini
+C:/apache/log/access.log
+C:/apache/log/access_log
+C:/apache/log/error.log
+C:/apache/log/error_log
+C:/apache/logs/access.log
+C:/apache/logs/access_log
+C:/apache/logs/error.log
+C:/apache/logs/error_log
+C:/apache/php/php.ini
+C:/apache2/log/access.log
+C:/apache2/log/access_log
+C:/apache2/log/error.log
+C:/apache2/log/error_log
+C:/apache2/logs/access.log
+C:/apache2/logs/access_log
+C:/apache2/logs/error.log
+C:/apache2/logs/error_log
+C:/boot.ini
+C:/documents and settings/administrator/desktop/desktop.ini
+C:/documents and settings/administrator/ntuser.dat
+C:/documents and settings/administrator/ntuser.ini
+C:/home/bin/stable/apache/php.ini
+C:/home2/bin/stable/apache/php.ini
+C:/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
+C:/inetpub/logs/logfiles
+C:/inetpub/wwwroot/global.asa
+C:/inetpub/wwwroot/index.asp
+C:/inetpub/wwwroot/web.config
+C:/log/access.log
+C:/log/access_log
+C:/log/error.log
+C:/log/error_log
+C:/log/httpd/access_log
+C:/log/httpd/error_log
+C:/logs/access.log
+C:/logs/access_log
+C:/logs/error.log
+C:/logs/error_log
+C:/logs/httpd/access_log
+C:/logs/httpd/error_log
+C:/mysql/bin/my.ini
+C:/mysql/data/hostname.err
+C:/mysql/data/mysql.err
+C:/mysql/data/mysql.log
+C:/mysql/my.cnf
+C:/mysql/my.ini
+C:/opt/xampp/logs/access.log
+C:/opt/xampp/logs/access_log
+C:/opt/xampp/logs/error.log
+C:/opt/xampp/logs/error_log
+C:/php/php.ini
+C:/php/sessions/
+C:/php4/php.ini
+C:/php4/sessions/
+C:/php5/php.ini
+C:/php5/sessions/
+C:/program files (x86)/apache group/apache/conf/access.log
+C:/program files (x86)/apache group/apache/conf/error.log
+C:/program files (x86)/apache group/apache/conf/httpd.conf
+C:/program files (x86)/apache group/apache/logs/access.log
+C:/program files (x86)/apache group/apache/logs/error.log
+C:/program files (x86)/apache group/apache2/conf/httpd.conf
+C:/program files (x86)/filezilla server/filezilla server.xml
+C:/program files (x86)/mysql/data/hostname.err
+C:/program files (x86)/mysql/data/mysql-bin.log
+C:/program files (x86)/mysql/data/mysql.err
+C:/program files (x86)/mysql/data/mysql.log
+C:/program files (x86)/mysql/my.cnf
+C:/program files (x86)/mysql/my.ini
+C:/program files (x86)/mysql/mysql server 5.0/data/hostname.err
+C:/program files (x86)/mysql/mysql server 5.0/data/mysql-bin.log
+C:/program files (x86)/mysql/mysql server 5.0/data/mysql.err
+C:/program files (x86)/mysql/mysql server 5.0/data/mysql.log
+C:/program files (x86)/mysql/mysql server 5.0/my.cnf
+C:/program files (x86)/mysql/mysql server 5.0/my.ini
+C:/program files (x86)/mysql/mysql server 5.1/my.ini
+C:/program files (x86)/xampp/apache/conf/httpd.conf
+C:/program files/apache group/apache/conf/access.log
+C:/program files/apache group/apache/conf/error.log
+C:/program files/apache group/apache/conf/httpd.conf
+C:/program files/apache group/apache/logs/access.log
+C:/program files/apache group/apache/logs/error.log
+C:/program files/apache group/apache2/conf/httpd.conf
+C:/program files/filezilla server/filezilla server.xml
+C:/program files/mysql/data/hostname.err
+C:/program files/mysql/data/mysql-bin.log
+C:/program files/mysql/data/mysql.err
+C:/program files/mysql/data/mysql.log
+C:/program files/mysql/my.cnf
+C:/program files/mysql/my.ini
+C:/program files/mysql/mysql server 5.0/data/hostname.err
+C:/program files/mysql/mysql server 5.0/data/mysql-bin.log
+C:/program files/mysql/mysql server 5.0/data/mysql.err
+C:/program files/mysql/mysql server 5.0/data/mysql.log
+C:/program files/mysql/mysql server 5.0/my.cnf
+C:/program files/mysql/mysql server 5.0/my.ini
+C:/program files/mysql/mysql server 5.1/my.ini
+C:/program files/xampp/apache/conf/httpd.conf
+C:/programdata/mcafee/common framework/sitelist.xml
+C:/sysprep.inf
+C:/sysprep.xml
+C:/sysprep/sysprep.inf
+C:/sysprep/sysprep.xml
+C:/system volume information/wpsettings.dat
+C:/system32/inetsrv/metabase.xml
+C:/unattend.txt
+C:/unattend.xml
+C:/unattended.txt
+C:/unattended.xml
+C:/users/administrator/.aws/config
+C:/users/administrator/.aws/credentials
+C:/users/administrator/.elasticbeanstalk/config
+C:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+C:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
+C:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
+C:/users/administrator/appdata/local/google/chrome/user data/default/cookies
+C:/users/administrator/appdata/local/google/chrome/user data/default/history
+C:/users/administrator/appdata/local/google/chrome/user data/default/last session
+C:/users/administrator/appdata/local/google/chrome/user data/default/login data
+C:/users/administrator/appdata/local/google/chrome/user data/default/preferences
+C:/users/administrator/appdata/local/google/chrome/user data/default/secure preferences
+C:/users/administrator/appdata/local/google/chrome/user data/default/top sites
+C:/users/administrator/desktop/desktop.ini
+C:/users/administrator/desktop/proof.txt
+C:/users/administrator/ntuser.dat
+C:/users/administrator/ntuser.ini
+C:/windows/csc/v2.0.6/pq
+C:/windows/csc/v2.0.6/sm
+C:/windows/debug/netsetup.log
+C:/windows/explorer.exe
+C:/windows/iis5.log
+C:/windows/iis6.log
+C:/windows/iis7.log
+C:/windows/iis8.log
+C:/windows/notepad.exe
+C:/windows/panther/setupinfo
+C:/windows/panther/setupinfo.bak
+C:/windows/panther/sysprep.inf
+C:/windows/panther/sysprep.xml
+C:/windows/panther/unattend.txt
+C:/windows/panther/unattend.xml
+C:/windows/panther/unattend/setupinfo
+C:/windows/panther/unattend/setupinfo.bak
+C:/windows/panther/unattend/sysprep.inf
+C:/windows/panther/unattend/sysprep.xml
+C:/windows/panther/unattend/unattend.txt
+C:/windows/panther/unattend/unattend.xml
+C:/windows/panther/unattend/unattended.txt
+C:/windows/panther/unattend/unattended.xml
+C:/windows/panther/unattended.txt
+C:/windows/panther/unattended.xml
+C:/windows/php.ini
+C:/windows/repair/sam
+C:/windows/repair/security
+C:/windows/repair/software
+C:/windows/repair/system
+C:/windows/system.ini
+C:/windows/system32/config/appevent.evt
+C:/windows/system32/config/default.sav
+C:/windows/system32/config/regback/default
+C:/windows/system32/config/regback/sam
+C:/windows/system32/config/regback/security
+C:/windows/system32/config/regback/software
+C:/windows/system32/config/regback/system
+C:/windows/system32/config/sam
+C:/windows/system32/config/secevent.evt
+C:/windows/system32/config/security.sav
+C:/windows/system32/config/software.sav
+C:/windows/system32/config/system
+C:/windows/system32/config/system.sa
+C:/windows/system32/config/system.sav
+C:/windows/system32/drivers/etc/hosts
+C:/windows/system32/eula.txt
+C:/windows/system32/inetsrv/config/applicationhost.config
+C:/windows/system32/inetsrv/config/schema/aspnet_schema.xml
+C:/windows/system32/license.rtf
+C:/windows/system32/logfiles/httperr/httperr1.log
+C:/windows/system32/sysprep.inf
+C:/windows/system32/sysprep.xml
+C:/windows/system32/sysprep/sysprep.xml
+C:/windows/system32/sysprepsysprep.inf
+C:/windows/system32/sysprepsysprep.xml
+C:/windows/system32/sysprepunattend.txt
+C:/windows/system32/sysprepunattend.xml
+C:/windows/system32/sysprepunattended.txt
+C:/windows/system32/sysprepunattended.xml
+C:/windows/system32/unattend.txt
+C:/windows/system32/unattend.xml
+C:/windows/system32/unattended.txt
+C:/windows/system32/unattended.xml
+C:/windows/temp/
+C:/windows/win.ini
+C:/windows/windowsupdate.log
+C:/winnt/php.ini
+C:/winnt/win.ini
+C:/xampp/apache/bin/php.ini
+C:/xampp/apache/conf/httpd.conf
+C:/xampp/apache/logs/access.log
+C:/xampp/apache/logs/error.log
+C:/xampp/filezillaftp/filezilla server.xml
+C:/xampp/filezillaftp/logs
+C:/xampp/filezillaftp/logs/access.log
+C:/xampp/filezillaftp/logs/error.log
+C:/xampp/mercurymail/logs/access.log
+C:/xampp/mercurymail/logs/error.log
+C:/xampp/mercurymail/mercury.ini
+C:/xampp/mysql/data/mysql.err
+C:/xampp/php/php.ini
+C:/xampp/phpmyadmin/config.inc
+C:/xampp/phpmyadmin/config.inc.php
+C:/xampp/phpmyadmin/phpinfo.php
+C:/xampp/sendmail/sendmail.ini
+C:/xampp/sendmail/sendmail.log
+C:/xampp/tomcat/conf/tomcat-users.xml
+C:/xampp/tomcat/conf/web.xml
+C:/xampp/webalizer/webalizer.conf
+C:/xampp/webdav/webdav.txt
+C:\boot.ini
+C:\inetpub\wwwroot\global.asa
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\etc\passwd
+\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+\..\..\..\..\..\..\..\..\..\..\etc\shadow
+\..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+\..\..\..\..\..\..\WINDOWS\win.ini
+\..\..\..\..\..\WINDOWS\win.ini
+\..\..\..\..\WINDOWS\win.ini
+\..\..\..\WINDOWS\win.ini
+\..\..\WINDOWS\win.ini
+\..\WINDOWS\win.ini
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+c:/$recycle.bin/s-1-5-18/desktop.ini
+c:/$sysreset/appxlogs/restoredownlevelalluserstore.log
+c:/$sysreset/logs/diagerr.xml
+c:/$sysreset/logs/diagwrn.xml
+c:/$sysreset/logs/sessionid.xml
+c:/$sysreset/logs/setupact.log
+c:/$sysreset/logs/setuperr.log
+c:/$sysreset/logs/timestamp.xml
+c:/$sysreset/resetsession.xml
+c:/MySQL/data/mysql-bin.index
+c:/MySQL/data/mysql-bin.log
+c:/MySQL/data/mysql.err
+c:/MySQL/data/mysql.log
+c:/MySQL/data/{IPDELHOST}.err
+c:/MySQL/my.cnf
+c:/MySQL/my.ini
+c:/NetServer/bin/stable/apache/php.ini
+c:/PHP/php.ini
+c:/PostgreSQL/log/pgadmin.log
+c:/Program Files/Apache Group/Apache/apache.conf
+c:/Program Files/Apache Group/Apache/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/apache.conf
+c:/Program Files/Apache Group/Apache/conf/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/httpd.conf
+c:/Program Files/Apache Group/Apache/logs/access.log
+c:/Program Files/Apache Group/Apache/logs/error.log
+c:/Program Files/Apache Group/Apache2/conf/apache.conf
+c:/Program Files/Apache Group/Apache2/conf/apache2.conf
+c:/Program Files/Apache Group/Apache2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/error.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.index
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/{IPDELHOST}.err
+c:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+c:/Program Files/MySQL/MySQL Server 5.0/my.ini
+c:/Program Files/MySQL/data/mysql-bin.index
+c:/Program Files/MySQL/data/mysql-bin.log
+c:/Program Files/MySQL/data/mysql.err
+c:/Program Files/MySQL/data/mysql.log
+c:/Program Files/MySQL/data/{IPDELHOST}.err
+c:/Program Files/MySQL/my.cnf
+c:/Program Files/MySQL/my.ini
+c:/Program Files/PostgreSQL/8.3/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.3/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.3/data/postgresql.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.4/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.0/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.1/data/postgresql.conf
+c:/Program Files/Vidalia Bundle/Polipo/polipo.conf
+c:/Program Files/xampp/apache/conf/apache.conf
+c:/Program Files/xampp/apache/conf/apache2.conf
+c:/Program Files/xampp/apache/conf/httpd.conf
+c:/WINDOWS/Debug/NetSetup.LOG
+c:/WINDOWS/ODBC.INI
+c:/WINDOWS/WindowsUpdate.log
+c:/WINDOWS/comsetup.log
+c:/WINDOWS/php.ini
+c:/WINDOWS/repair/setup.log
+c:/WINDOWS/setupact.log
+c:/WINDOWS/setupapi.log
+c:/WINDOWS/setuperr.log
+c:/WINDOWS/system32/Macromed/Flash/FlashInstall.log
+c:/WINDOWS/system32/Macromed/Flash/install.log
+c:/WINDOWS/system32/drivers/etc/hosts
+c:/WINDOWS/system32/drivers/etc/lmhosts.sam
+c:/WINDOWS/system32/drivers/etc/networks
+c:/WINDOWS/system32/drivers/etc/protocol
+c:/WINDOWS/system32/drivers/etc/services
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINDOWS/system32/logfiles/MSFTPSVC
+c:/WINDOWS/system32/logfiles/MSFTPSVC1
+c:/WINDOWS/system32/logfiles/MSFTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC
+c:/WINDOWS/system32/logfiles/SMTPSVC1
+c:/WINDOWS/system32/logfiles/SMTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC3
+c:/WINDOWS/system32/logfiles/SMTPSVC4
+c:/WINDOWS/system32/logfiles/SMTPSVC5
+c:/WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC3/inetsvn1.log
+c:/WINDOWS/updspapi.log
+c:/WINDOWS/wmsetup.log
+c:/WINNT/php.ini
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINNT/system32/logfiles/MSFTPSVC
+c:/WINNT/system32/logfiles/MSFTPSVC1
+c:/WINNT/system32/logfiles/MSFTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC
+c:/WINNT/system32/logfiles/SMTPSVC1
+c:/WINNT/system32/logfiles/SMTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC3
+c:/WINNT/system32/logfiles/SMTPSVC4
+c:/WINNT/system32/logfiles/SMTPSVC5
+c:/WINNT/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC3/inetsvn1.log
+c:/all.txt
+c:/apache/log/access.log
+c:/apache/log/access_log
+c:/apache/log/error.log
+c:/apache/log/error_log
+c:/apache/logs/access.log
+c:/apache/logs/access_log
+c:/apache/logs/error.log
+c:/apache/logs/error_log
+c:/apache/php/php.ini
+c:/apache2/log/access.log
+c:/apache2/log/access_log
+c:/apache2/log/error.log
+c:/apache2/log/error_log
+c:/apache2/logs/access.log
+c:/apache2/logs/access_log
+c:/apache2/logs/error.log
+c:/apache2/logs/error_log
+c:/boot.ini
+c:/documents and settings/administrator/desktop/desktop.ini
+c:/documents and settings/administrator/ntuser.dat
+c:/documents and settings/administrator/ntuser.ini
+c:/etc/postgresql/pg_hba.conf
+c:/etc/postgresql/postgresql.conf
+c:/home/bin/stable/apache/php.ini
+c:/home/postgres/data/PG_VERSION
+c:/home/postgres/data/pg_hba.conf
+c:/home/postgres/data/pg_ident.conf
+c:/home/postgres/data/postgresql.conf
+c:/home2/bin/stable/apache/php.ini
+c:/inetpub/logs/logfiles
+c:/inetpub/wwwroot/app_start/bundleconfig.cs
+c:/inetpub/wwwroot/app_start/filterconfig.cs
+c:/inetpub/wwwroot/app_start/routeconfig.cs
+c:/inetpub/wwwroot/global.asa
+c:/inetpub/wwwroot/global.asax
+c:/inetpub/wwwroot/index.asp
+c:/inetpub/wwwroot/packages.config
+c:/inetpub/wwwroot/site.master
+c:/inetpub/wwwroot/web.config
+c:/log/access.log
+c:/log/access_log
+c:/log/error.log
+c:/log/error_log
+c:/log/httpd/access_log
+c:/log/httpd/error_log
+c:/logs/access.log
+c:/logs/access_log
+c:/logs/error.log
+c:/logs/error_log
+c:/logs/httpd/access_log
+c:/logs/httpd/error_log
+c:/minint/smsosd/osdlogs/variables.dat
+c:/mysql/bin/my.ini
+c:/mysql/data/hostname.err
+c:/mysql/data/mysql.err
+c:/mysql/data/mysql.log
+c:/mysql/my.cnf
+c:/mysql/my.ini
+c:/mysql/mysql server 5.0/data/hostname.err
+c:/nginx/conf/mime.types
+c:/nginx/conf/nginx.conf
+c:/nginx/conf/sites-enabled/default.conf
+c:/nginx/logs/access.log
+c:/nginx/logs/error.log
+c:/opt/xampp/logs/access.log
+c:/opt/xampp/logs/access_log
+c:/opt/xampp/logs/error.log
+c:/opt/xampp/logs/error_log
+c:/php/php.ini
+c:/php/sessions/
+c:/php4/php.ini
+c:/php4/sessions/
+c:/php5/php.ini
+c:/php5/sessions/
+c:/program files (x86)/apache group/apache/conf/access.log
+c:/program files (x86)/apache group/apache/conf/error.log
+c:/program files (x86)/apache group/apache/conf/httpd.conf
+c:/program files (x86)/apache group/apache/logs/access.log
+c:/program files (x86)/apache group/apache/logs/error.log
+c:/program files (x86)/apache group/apache2/conf/httpd.conf
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/adcache/adobjectlocalcomputer.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200915.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200916.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200917.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200918.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200919.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200920.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200921.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/logs/20200922.log
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200915.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200916.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200917.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200918.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200919.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200920.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/__global/relaychain/20200921.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/actionsite/actionsiteepoch.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes inventory and license/apptracking_en-us.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes inventory and license/datestrings_en-us.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes inventory and license/formatters_en-us.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/1_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/1_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/1_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/1_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/1_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/2_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/2_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/2_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/2_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/2_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/4_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/4_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/4_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/4_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/4_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/5_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/5_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/5_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/5_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/5_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/5_5.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/6_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/6_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/6_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/6_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/6_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/6_5.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b0_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b0_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b0_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b0_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b0_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b3_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b3_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b3_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b3_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/b3_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/blank.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/en-us_datestrings.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/en-us_formatters.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/location_en-us.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/precachewizard_en-us.xml
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/bes support/products.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/customsite_sfdc_-2d_win_client/powershell.ps1
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/customsite_sfdc_-2d_win_client/windows_path_enumerate.ps1
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/1_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/1_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/1_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/1_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/1_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/2_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/2_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/2_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/2_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/2_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/4_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/4_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/4_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/4_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/4_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_5.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/5_6.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/6_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/6_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/6_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/6_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/6_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/6_5.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b0_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b0_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b0_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b0_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b0_4.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b3_0.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b3_1.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b3_2.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b3_3.txt
+c:/program files (x86)/bigfix enterprise/bes client/__besdata/updates for windows applications/b3_4.txt
+c:/program files (x86)/common files/microsoft shared/ink/thirdpartynotices.mshwlatin.txt
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/en/microsoft.visualstudio.vshelp.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/en/microsoft.visualstudio.vshelp80.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/envdte.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/envdte100.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/envdte80.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/envdte90.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/envdte90a.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/extensibility.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vslangproj.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vslangproj100.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vslangproj110.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vslangproj2.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vslangproj80.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vslangproj90.xml
+c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vswebsite.interop.xml
+c:/program files (x86)/dotnet/shared/microsoft.aspnetcore.app/3.1.8/third-party-notices.txt
+c:/program files (x86)/filezilla server/filezilla server.xml
+c:/program files (x86)/iis express/appcmd.xml
+c:/program files (x86)/iis express/appserver/applicationhost.config
+c:/program files (x86)/iis express/browscap.ini
+c:/program files (x86)/iis express/config/administration.config
+c:/program files (x86)/iis express/config/schema/aspnet_schema.xml
+c:/program files (x86)/iis express/config/schema/aspnetcore_schema.xml
+c:/program files (x86)/iis express/config/schema/aspnetcore_schema_v2.xml
+c:/program files (x86)/iis express/config/schema/dbmanager_schema.xml
+c:/program files (x86)/iis express/config/schema/fx_schema.xml
+c:/program files (x86)/iis express/config/schema/iis_schema.xml
+c:/program files (x86)/iis express/config/schema/rewrite_schema.xml
+c:/program files (x86)/iis express/config/schema/rscaext.xml
+c:/program files (x86)/iis express/config/schema/webdav_schema.xml
+c:/program files (x86)/iis express/config/templates/personalwebserver/applicationhost.config
+c:/program files (x86)/iis express/config/templates/personalwebserver/aspnet.config
+c:/program files (x86)/iis express/config/templates/personalwebserver/redirection.config
+c:/program files (x86)/iis express/iisexpressadmincmd.exe.config
+c:/program files (x86)/iis express/iisexpresstray.exe.config
+c:/program files (x86)/iis express/redist.txt
+c:/program files (x86)/iis express/thirdpartynotices.txt
+c:/program files (x86)/iis/microsoft web deploy v3/msdeploy.exe.config
+c:/program files (x86)/iis/microsoft web deploy v3/redist.txt
+c:/program files (x86)/iis/microsoft web deploy v3/thirdpartynotices.txt
+c:/program files (x86)/microsoft sql server/130/localdb/binn/localdbxeventconfig.xml
+c:/program files (x86)/microsoft sql server/client sdk/odbc/170/license terms/license_msodbcsql_enu.txt
+c:/program files (x86)/microsoft visual studio/installer/feedback.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/layout/installcleanup.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/layout/setup.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/main/vs_installer.windows.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/js-sha256/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/microsoft-servicehub/thirdpartynotices.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/set-blocking/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/vscode-jsonrpc/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/vscode-jsonrpc/thirdpartynotices.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/vscode-nls/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/vscode-nls/thirdpartynotices.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/yargs-parser/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/yargs/node_modules/cliui/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/yargs/node_modules/emoji-regex/license-mit.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/node_modules/yargs/node_modules/require-main-filename/license.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/notice.txt
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/controller/microsoft.servicehub.controller.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/hosts/microsoft.servicehub.host.clr/vs_installerservice.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/hosts/microsoft.servicehub.host.clr/vs_installerservice.x86.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/services/microsoft.developer.identityservice/microsoft.developer.identityservice.dll.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/services/microsoft.visualstudio.setup.service/microsoft.visualstudio.remotesettingsproviderservice.dll.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/services/microsoft.visualstudio.setup.service/microsoft.visualstudio.servicehub.common.dll.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/services/microsoft.visualstudio.setup.service/microsoft.visualstudio.setup.service.dll.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/services/microsoft.visualstudio.setup.service/vsixautoupdate.exe.config
+c:/program files (x86)/microsoft visual studio/installer/resources/app/servicehub/services/microsoft.visualstudio.setup.service/vsixinstaller.exe.config
+c:/program files (x86)/microsoft visual studio/installer/setup.exe.config
+c:/program files (x86)/microsoft visual studio/installer/vs_installer.visualelementsmanifest.xml
+c:/program files (x86)/microsoft visual studio/installer/vs_installer.windows.exe.config
+c:/program files (x86)/microsoft visual studio/installer/vs_installershell.visualelementsmanifest.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_platform_k7.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_platform_k8.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_platform_p4.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_platform_p6.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_platform_p6_arch.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_portable.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperf_rule_definitions.xml
+c:/program files (x86)/microsoft visual studio/shared/common/vsperfcollectiontools/vs2019/vsperfcollectionplan.xml
+c:/program files (x86)/microsoft.net/redistlist/assemblylist_4_client.xml
+c:/program files (x86)/microsoft.net/redistlist/assemblylist_4_extended.xml
+c:/program files (x86)/microsoft/edge/application/81.0.416.88/mlmodels/autofill_labeling_features.txt
+c:/program files (x86)/microsoft/edge/application/81.0.416.88/mlmodels/autofill_labeling_features_email.txt
+c:/program files (x86)/microsoft/edge/application/85.0.564.51/mlmodels/autofill_labeling_features.txt
+c:/program files (x86)/microsoft/edge/application/85.0.564.51/mlmodels/autofill_labeling_features_email.txt
+c:/program files (x86)/microsoft/edge/application/msedge.visualelementsmanifest.xml
+c:/program files (x86)/microsoft/edgeupdate/1.3.135.29/notice.txt
+c:/program files (x86)/mysql/data/hostname.err
+c:/program files (x86)/mysql/data/mysql-bin.log
+c:/program files (x86)/mysql/data/mysql.err
+c:/program files (x86)/mysql/data/mysql.log
+c:/program files (x86)/mysql/my.cnf
+c:/program files (x86)/mysql/my.ini
+c:/program files (x86)/mysql/mysql server 5.0/data/hostname.err
+c:/program files (x86)/mysql/mysql server 5.0/data/mysql-bin.log
+c:/program files (x86)/mysql/mysql server 5.0/data/mysql.err
+c:/program files (x86)/mysql/mysql server 5.0/data/mysql.log
+c:/program files (x86)/mysql/mysql server 5.0/my.cnf
+c:/program files (x86)/mysql/mysql server 5.0/my.ini
+c:/program files (x86)/mysql/mysql server 5.1/my.ini
+c:/program files (x86)/notepad++/autocompletion/actionscript.xml
+c:/program files (x86)/notepad++/autocompletion/autoit.xml
+c:/program files (x86)/notepad++/autocompletion/baanc.xml
+c:/program files (x86)/notepad++/autocompletion/batch.xml
+c:/program files (x86)/notepad++/autocompletion/c.xml
+c:/program files (x86)/notepad++/autocompletion/cmake.xml
+c:/program files (x86)/notepad++/autocompletion/coffee.xml
+c:/program files (x86)/notepad++/autocompletion/cpp.xml
+c:/program files (x86)/notepad++/autocompletion/cs.xml
+c:/program files (x86)/notepad++/autocompletion/css.xml
+c:/program files (x86)/notepad++/autocompletion/html.xml
+c:/program files (x86)/notepad++/autocompletion/java.xml
+c:/program files (x86)/notepad++/autocompletion/javascript.xml
+c:/program files (x86)/notepad++/autocompletion/lisp.xml
+c:/program files (x86)/notepad++/autocompletion/lua.xml
+c:/program files (x86)/notepad++/autocompletion/nsis.xml
+c:/program files (x86)/notepad++/autocompletion/perl.xml
+c:/program files (x86)/notepad++/autocompletion/php.xml
+c:/program files (x86)/notepad++/autocompletion/python.xml
+c:/program files (x86)/notepad++/autocompletion/rc.xml
+c:/program files (x86)/notepad++/autocompletion/sql.xml
+c:/program files (x86)/notepad++/autocompletion/tex.xml
+c:/program files (x86)/notepad++/autocompletion/vb.xml
+c:/program files (x86)/notepad++/autocompletion/vhdl.xml
+c:/program files (x86)/notepad++/autocompletion/xml.xml
+c:/program files (x86)/notepad++/change.log
+c:/program files (x86)/notepad++/contextmenu.xml
+c:/program files (x86)/notepad++/functionlist.xml
+c:/program files (x86)/notepad++/langs.model.xml
+c:/program files (x86)/notepad++/localization/english.xml
+c:/program files (x86)/notepad++/readme.txt
+c:/program files (x86)/notepad++/shortcuts.xml
+c:/program files (x86)/notepad++/stylers.model.xml
+c:/program files (x86)/notepad++/updater/gup.xml
+c:/program files (x86)/tomcat/license
+c:/program files (x86)/tomcat/release-notes
+c:/program files (x86)/windows media player/media renderer/avtransport.xml
+c:/program files (x86)/windows media player/media renderer/connectionmanager_dmr.xml
+c:/program files (x86)/windows media player/media renderer/renderingcontrol.xml
+c:/program files (x86)/windows media player/media renderer/renderingcontrol_dmp.xml
+c:/program files (x86)/windows nt/tabletextservice/tabletextservicearray.txt
+c:/program files (x86)/windows nt/tabletextservice/tabletextservicedayi.txt
+c:/program files (x86)/windows nt/tabletextservice/tabletextservicetigrinya.txt
+c:/program files (x86)/windows nt/tabletextservice/tabletextserviceyi.txt
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/diagnostics/comprehensive/comprehensive.tests.ps1
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/diagnostics/simple/simple.tests.ps1
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/test/microsoft.powershell.operation.validation.tests.ps1
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/test/modules/example1.diagnostics/diagnostics/simple/example1.diagnostics.tests.ps1
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/test/modules/example2.diagnostics/1.0.1/diagnostics/simple/example2.diagnostics.tests.ps1
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/test/modules/example3.diagnostics/1.1.1/diagnostics/simple/example3a.diagnostics.tests.ps1
+c:/program files (x86)/windowspowershell/modules/microsoft.powershell.operation.validation/1.0.1/test/modules/example3.diagnostics/2.0.1/diagnostics/simple/example3b.diagnostics.tests.ps1
+c:/program files (x86)/windowspowershell/modules/packagemanagement/1.0.0.1/packagemanagement.format.ps1xml
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/build.psake.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/chocolateyinstall.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/en-us/about_beforeeach_aftereach.help.txt
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/en-us/about_mocking.help.txt
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/en-us/about_pester.help.txt
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/en-us/about_should.help.txt
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/en-us/about_testdrive.help.txt
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/examples/calculator/add-numbers.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/examples/calculator/add-numbers.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/examples/validator/validator.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/be.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/be.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/begreaterthan.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/begreaterthan.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/belessthan.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/belessthan.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/belike.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/belike.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/belikeexactly.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/belikeexactly.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/benullorempty.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/benullorempty.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/beoftype.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/beoftype.tests.ps1
+c:/program files (x86)/windowspowershell/modules/pester/3.4.0/functions/assertions/contain.ps1
+c:/program files (x86)/xampp/apache/conf/httpd.conf
+c:/program files/apache group/apache/conf/access.log
+c:/program files/apache group/apache/conf/error.log
+c:/program files/apache group/apache/conf/httpd.conf
+c:/program files/apache group/apache/logs/access.log
+c:/program files/apache group/apache/logs/error.log
+c:/program files/apache group/apache2/conf/httpd.conf
+c:/program files/apache software foundation/tomcat 8.0/license
+c:/program files/apache software foundation/tomcat 8.0/release-notes
+c:/program files/apache software foundation/tomcat 8.5/license
+c:/program files/apache software foundation/tomcat 8.5/release-notes
+c:/program files/apache software foundation/tomcat 9.0/license
+c:/program files/apache software foundation/tomcat 9.0/release-notes
+c:/program files/common files/microsoft shared/ink/alphabet.xml
+c:/program files/common files/microsoft shared/ink/content.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/auxpad.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/auxpad/auxbase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/insert.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/insert/insertbase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/keypad.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/keypad/ea.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/keypad/keypadbase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/keypad/kor-kor.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base_altgr.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base_ca.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base_heb.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base_jpn.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base_kor.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/base_rtl.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/basealtgr_rtl.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/ja-jp.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/ko-kr.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/zh-changjei.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/zh-dayi.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/main/zh-phonetic.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/oskclearui.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/oskclearui/oskclearuibase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/oskmenu.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/oskmenu/oskmenubase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/osknav.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/osknav/osknavbase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/osknumpad.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/osknumpad/osknumpadbase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/oskpred.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/oskpred/oskpredbase.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/symbols.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/symbols/ea-sym.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/symbols/ja-jp-sym.xml
+c:/program files/common files/microsoft shared/ink/fsdefinitions/symbols/symbase.xml
+c:/program files/common files/microsoft shared/ink/ipsar.xml
+c:/program files/common files/microsoft shared/ink/ipscat.xml
+c:/program files/common files/microsoft shared/ink/ipschs.xml
+c:/program files/common files/microsoft shared/ink/ipscht.xml
+c:/program files/common files/microsoft shared/ink/ipscsy.xml
+c:/program files/common files/microsoft shared/ink/ipsdan.xml
+c:/program files/common files/microsoft shared/ink/ipsdeu.xml
+c:/program files/common files/microsoft shared/ink/ipsel.xml
+c:/program files/common files/microsoft shared/ink/ipsen.xml
+c:/program files/common files/microsoft shared/ink/ipsesp.xml
+c:/program files/common files/microsoft shared/ink/ipsfin.xml
+c:/program files/common files/microsoft shared/ink/ipsfra.xml
+c:/program files/common files/microsoft shared/ink/ipshe.xml
+c:/program files/common files/microsoft shared/ink/ipshi.xml
+c:/program files/common files/microsoft shared/ink/ipshrv.xml
+c:/program files/common files/microsoft shared/ink/ipsid.xml
+c:/program files/common files/microsoft shared/ink/ipsita.xml
+c:/program files/common files/microsoft shared/ink/ipsjpn.xml
+c:/program files/common files/microsoft shared/ink/ipskor.xml
+c:/program files/common files/microsoft shared/ink/ipsnld.xml
+c:/program files/common files/microsoft shared/ink/ipsnor.xml
+c:/program files/common files/microsoft shared/ink/ipsplk.xml
+c:/program files/common files/microsoft shared/ink/ipsptb.xml
+c:/program files/common files/microsoft shared/ink/ipsptg.xml
+c:/program files/common files/microsoft shared/ink/ipsrom.xml
+c:/program files/common files/microsoft shared/ink/ipsrus.xml
+c:/program files/common files/microsoft shared/ink/ipssrb.xml
+c:/program files/common files/microsoft shared/ink/ipssrl.xml
+c:/program files/common files/microsoft shared/ink/ipssve.xml
+c:/program files/common files/microsoft shared/ink/ipstr.xml
+c:/program files/common files/microsoft shared/ink/thirdpartynotices.mshwlatin.txt
+c:/program files/dotnet/license.txt
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/data/frameworklist.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/data/packageoverrides.txt
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/data/platformmanifest.txt
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.antiforgery.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authentication.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authentication.cookies.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authentication.core.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authentication.oauth.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authentication.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authorization.policy.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.authorization.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.components.authorization.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.components.forms.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.components.server.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.components.web.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.components.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.connections.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.cookiepolicy.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.cors.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.cryptography.internal.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.cryptography.keyderivation.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.dataprotection.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.dataprotection.extensions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.dataprotection.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.diagnostics.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.diagnostics.healthchecks.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.diagnostics.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.hostfiltering.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.hosting.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.hosting.server.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.hosting.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.html.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.http.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.http.connections.common.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.http.connections.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.http.extensions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.http.features.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.http.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.httpoverrides.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.httpspolicy.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.identity.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.localization.routing.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.localization.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.metadata.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.apiexplorer.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.core.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.cors.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.dataannotations.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.formatters.json.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.formatters.xml.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.localization.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.razor.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.razorpages.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.taghelpers.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.viewfeatures.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.mvc.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.razor.runtime.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.razor.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.responsecaching.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.responsecaching.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.responsecompression.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.rewrite.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.routing.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.routing.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.server.httpsys.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.server.iis.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.server.iisintegration.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.server.kestrel.core.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.server.kestrel.transport.sockets.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.server.kestrel.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.session.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.signalr.common.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.signalr.core.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.signalr.protocols.json.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.signalr.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.staticfiles.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.websockets.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.webutilities.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.aspnetcore.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.caching.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.caching.memory.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.binder.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.commandline.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.environmentvariables.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.fileextensions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.ini.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.json.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.keyperfile.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.usersecrets.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.configuration.xml.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.dependencyinjection.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.dependencyinjection.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.diagnostics.healthchecks.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.diagnostics.healthchecks.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.fileproviders.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.fileproviders.composite.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.fileproviders.embedded.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.fileproviders.physical.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.filesystemglobbing.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.hosting.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.hosting.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.http.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.identity.core.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.identity.stores.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.localization.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.localization.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.abstractions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.configuration.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.console.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.debug.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.eventlog.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.eventsource.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.tracesource.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.logging.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.objectpool.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.options.configurationextensions.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.options.dataannotations.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.options.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.primitives.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.extensions.webencoders.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.jsinterop.xml
+c:/program files/dotnet/packs/microsoft.aspnetcore.app.ref/3.1.8/ref/netcoreapp3.1/microsoft.net.http.headers.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/data/frameworklist.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/data/packageoverrides.txt
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/data/platformmanifest.txt
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/microsoft.csharp.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/microsoft.visualbasic.core.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/microsoft.win32.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.buffers.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.collections.concurrent.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.collections.immutable.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.collections.nongeneric.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.collections.specialized.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.collections.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.componentmodel.annotations.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.componentmodel.eventbasedasync.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.componentmodel.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.componentmodel.typeconverter.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.componentmodel.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.console.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.data.common.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.contracts.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.debug.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.diagnosticsource.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.fileversioninfo.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.process.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.stacktrace.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.textwritertracelistener.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.tools.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.tracesource.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.tracing.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.drawing.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.compression.brotli.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.compression.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.compression.zipfile.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.filesystem.driveinfo.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.filesystem.watcher.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.filesystem.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.isolatedstorage.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.memorymappedfiles.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.io.pipes.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.linq.expressions.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.linq.parallel.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.linq.queryable.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.linq.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.memory.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.http.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.httplistener.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.mail.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.nameresolution.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.networkinformation.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.ping.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.requests.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.security.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.servicepoint.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.sockets.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.webclient.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.webheadercollection.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.webproxy.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.websockets.client.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.net.websockets.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.numerics.vectors.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.objectmodel.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.dispatchproxy.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.emit.ilgeneration.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.emit.lightweight.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.emit.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.metadata.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.reflection.typeextensions.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.resources.resourcemanager.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.resources.writer.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.compilerservices.unsafe.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.compilerservices.visualc.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.extensions.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.interopservices.runtimeinformation.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.interopservices.windowsruntime.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.interopservices.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.intrinsics.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.loader.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.numerics.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.serialization.formatters.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.serialization.json.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.serialization.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.serialization.xml.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.runtime.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.claims.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.algorithms.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.csp.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.encoding.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.primitives.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.x509certificates.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.security.principal.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.text.encoding.codepages.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.text.encoding.extensions.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.text.encodings.web.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.text.json.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.text.regularexpressions.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.channels.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.overlapped.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.tasks.dataflow.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.tasks.parallel.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.tasks.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.thread.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.threadpool.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.timer.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.transactions.local.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.web.httputility.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.xml.readerwriter.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.xml.xdocument.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.xml.xmlserializer.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.xml.xpath.xdocument.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/system.xml.xpath.xml
+c:/program files/dotnet/packs/microsoft.netcore.app.ref/3.1.0/ref/netcoreapp3.1/windowsbase.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/data/frameworklist.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/data/platformmanifest.txt
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/accessibility.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/microsoft.win32.registry.accesscontrol.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/microsoft.win32.registry.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/microsoft.win32.systemevents.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationcore.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.aero.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.aero2.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.aerolite.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.classic.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.luna.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.royale.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/presentationframework.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/reachframework.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.codedom.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.configuration.configurationmanager.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.eventlog.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.diagnostics.performancecounter.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.directoryservices.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.drawing.common.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.io.filesystem.accesscontrol.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.io.packaging.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.io.pipes.accesscontrol.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.printing.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.resources.extensions.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.accesscontrol.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.cng.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.pkcs.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.protecteddata.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.cryptography.xml.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.permissions.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.security.principal.windows.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.threading.accesscontrol.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.controls.ribbon.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.extensions.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.forms.design.editors.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.forms.design.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.forms.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.input.manipulations.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.windows.presentation.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/system.xaml.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/uiautomationclient.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/uiautomationclientsideproviders.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/uiautomationprovider.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/uiautomationtypes.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/windowsbase.xml
+c:/program files/dotnet/packs/microsoft.windowsdesktop.app.ref/3.1.0/ref/netcoreapp3.1/windowsformsintegration.xml
+c:/program files/dotnet/packs/netstandard.library.ref/2.1.0/data/frameworklist.xml
+c:/program files/dotnet/packs/netstandard.library.ref/2.1.0/data/packageoverrides.txt
+c:/program files/dotnet/packs/netstandard.library.ref/2.1.0/ref/netstandard2.1/netstandard.xml
+c:/program files/dotnet/sdk/3.1.402/datacollector.dll.config
+c:/program files/dotnet/sdk/3.1.402/dotnettools/dotnet-dev-certs/3.1.8-servicing.20421.6/tools/netcoreapp3.1/any/dotnettoolsettings.xml
+c:/program files/dotnet/sdk/3.1.402/dotnettools/dotnet-user-secrets/3.1.8-servicing.20421.6/tools/netcoreapp3.1/any/dotnettoolsettings.xml
+c:/program files/dotnet/sdk/3.1.402/dotnettools/dotnet-watch/3.1.8-servicing.20421.6/tools/netcoreapp3.1/any/dotnettoolsettings.xml
+c:/program files/dotnet/sdk/3.1.402/microsoft.testplat
+c:/program files/dotnet/sdk/3.1.402/microsoft.testplatform.vstestconsole.translationlayer.xml
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.razor/tools/netcoreapp3.0/microsoft.aspnetcore.razor.language.xml
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.razor/tools/netcoreapp3.0/microsoft.codeanalysis.razor.xml
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.razor/tools/netcoreapp3.0/rzc.xml
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.windowsdesktop/license.txt
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.windowsdesktop/third-party-notices.txt
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.windowsdesktop/useshareddesignercontext.txt
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk.windowsdesktop/version.txt
+c:/program files/dotnet/sdk/3.1.402/sdks/microsoft.net.sdk/tools/net472/microsoft.net.build.tasks.dll.config
+c:/program files/dotnet/sdk/3.1.402/testhost/datacollector.exe.config
+c:/program files/dotnet/sdk/3.1.402/testhost/testhost.exe.config
+c:/program files/dotnet/sdk/3.1.402/testhost/testhost.x86.exe.config
+c:/program files/dotnet/sdk/3.1.402/vstest.console.dll.config
+c:/program files/dotnet/shared/microsoft.aspnetcore.app/3.1.8/third-party-notices.txt
+c:/program files/dotnet/thirdpartynotices.txt
+c:/program files/filezilla server/filezilla server.xml
+c:/program files/gs/gs9.19/doc/pclxps/ghostpdl.txt
+c:/program files/gs/gs9.19/doc/pscet_status.txt
+c:/program files/gs/gs9.19/doc/who_owns_what.txt
+c:/program files/gs/gs9.19/libpng/contrib/examples/readme.txt
+c:/program files/gs/gs9.19/openjpeg/src/lib/openjp2/cmakelists.txt
+c:/program files/gs/gs9.19/zlib/doc/algorithm.txt
+c:/program files/gs/gs9.19/zlib/doc/rfc1950.txt
+c:/program files/gs/gs9.19/zlib/doc/rfc1951.txt
+c:/program files/gs/gs9.19/zlib/doc/rfc1952.txt
+c:/program files/gs/gs9.19/zlib/doc/txtvsbin.txt
+c:/program files/icewarp/api/c#/xmlrpcexample/xmlrpcexample/resources/event.xml
+c:/program files/icewarp/api/c/readme.txt
+c:/program files/icewarp/api/readme.txt
+c:/program files/icewarp/calendar/calendar.xml
+c:/program files/icewarp/calendar/doc/api.txt
+c:/program files/icewarp/config/##internalservicedomain.icewarp.com##/domain.cfg
+c:/program files/icewarp/config/_webmail/server.xml
+c:/program files/icewarp/config/_webmail/settings.xml
+c:/program files/icewarp/config/content.xml
+c:/program files/icewarp/config/domain.com/domain.cfg
+c:/program files/icewarp/config/domain.com/public-folders.txt
+c:/program files/icewarp/config/domain.com/users.cfg
+c:/program files/icewarp/config/domains.cfg
+c:/program files/icewarp/config/settings.cfg
+c:/program files/icewarp/config/voicemail.xml
+c:/program files/icewarp/doc/license.txt
+c:/program files/icewarp/doc/readme.txt
+c:/program files/icewarp/doc/releasenotes.txt
+c:/program files/icewarp/doc/releasenotes_activesync.txt
+c:/program files/icewarp/doc/releasenotes_voipservices.txt
+c:/program files/icewarp/doc/releasenotes_webclient.txt
+c:/program files/icewarp/doc/releasenotes_webdav.txt
+c:/program files/icewarp/doc/snmp-mib.txt
+c:/program files/icewarp/enchant/myspell/license.txt
+c:/program files/icewarp/html/_shared/_doc/framework.txt
+c:/program files/icewarp/html/_shared/framework_releasenotes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.allowedclasses.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.allowedframetargets.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.allowedrel.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.allowedrev.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.classusecdata.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.defaultimagealt.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.defaultinvalidimage.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.defaultinvalidimagealt.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.defaulttextdir.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.enableid.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.forbiddenclasses.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.id.html5.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.idblacklist.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.idblacklistregexp.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.idprefix.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/attr.idprefixlocal.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.autoparagraph.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.custom.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.displaylinkuri.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.linkify.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.purifierlinkify.docurl.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.purifierlinkify.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.removeempty.predicate.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.removeempty.removenbsp.exceptions.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.removeempty.removenbsp.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.removeempty.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/autoformat.removespanswithoutattributes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/cache.definitionimpl.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/cache.serializerpath.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/cache.serializerpermissions.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.aggressivelyfixlt.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.aggressivelyremovescript.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.allowhostnameunderscore.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.collecterrors.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.colorkeywords.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.convertdocumenttofragment.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.directlexlinenumbersyncinterval.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.disableexcludes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.enableidna.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.encoding.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.escapeinvalidchildren.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.escapeinvalidtags.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.escapenonasciicharacters.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.hiddenelements.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.language.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.legacyentitydecoder.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.lexerimpl.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.maintainlinenumbers.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.normalizenewlines.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.removeinvalidimg.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.removeprocessinginstructions.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/core.removescriptcontents.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.allowduplicates.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.allowedfonts.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.allowedproperties.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.allowimportant.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.allowtricky.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.definitionrev.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.forbiddenproperties.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.maximglength.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.proprietary.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/css.trusted.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/filter.custom.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/filter.extractstyleblocks.escaping.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/filter.extractstyleblocks.scope.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/filter.extractstyleblocks.tidyimpl.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/filter.extractstyleblocks.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/filter.youtube.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.allowed.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.allowedattributes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.allowedcomments.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.allowedcommentsregexp.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.allowedelements.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.allowedmodules.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.attr.name.usecdata.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.blockwrapper.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.coremodules.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.customdoctype.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.definitionid.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.definitionrev.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.doctype.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.flashallowfullscreen.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.forbiddenattributes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.forbiddenelements.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.maximglength.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.nofollow.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.parent.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.proprietary.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.safeembed.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.safeiframe.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.safeobject.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.safescripting.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.strict.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.targetblank.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.targetnoopener.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.targetnoreferrer.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.tidyadd.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.tidylevel.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.tidyremove.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.trusted.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/html.xhtml.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/info.ini
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/output.commentscriptcontents.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/output.fixinnerhtml.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/output.flashcompat.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/output.newline.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/output.sortattr.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/output.tidyformat.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/test.forcenoiconv.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.allowedschemes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.base.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.defaultscheme.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.definitionid.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.definitionrev.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.disable.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.disableexternal.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.disableexternalresources.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.disableresources.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.host.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.hostblacklist.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.makeabsolute.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.munge.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.mungeresources.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.mungesecretkey.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.overrideallowedschemes.txt
+c:/program files/icewarp/html/_shared/libs/htmlpurifier/configschema/schema/uri.safeiframeregexp.txt
+c:/program files/icewarp/html/admin/browserconfig.xml
+c:/program files/icewarp/html/admin/client/languages/cn/data.xml
+c:/program files/icewarp/html/admin/client/languages/cs/data.xml
+c:/program files/icewarp/html/admin/client/languages/de/data.xml
+c:/program files/icewarp/html/admin/client/languages/en/data.xml
+c:/program files/icewarp/html/admin/client/languages/en/fonts.xml
+c:/program files/icewarp/html/admin/client/languages/es/data.xml
+c:/program files/icewarp/html/admin/client/languages/fa/data.xml
+c:/program files/icewarp/html/admin/client/languages/fi/data.xml
+c:/program files/icewarp/html/admin/client/languages/fr/data.xml
+c:/program files/icewarp/html/admin/client/languages/hu/data.xml
+c:/program files/icewarp/html/admin/client/languages/it/data.xml
+c:/program files/icewarp/html/admin/client/languages/kr/data.xml
+c:/program files/icewarp/html/admin/client/languages/nl/data.xml
+c:/program files/icewarp/html/admin/client/languages/pl/data.xml
+c:/program files/icewarp/html/admin/client/languages/pt/data.xml
+c:/program files/icewarp/html/admin/client/languages/ru/data.xml
+c:/program files/icewarp/html/admin/client/languages/sk/data.xml
+c:/program files/icewarp/html/admin/client/objects/class_errorhandler.xml
+c:/program files/icewarp/html/admin/client/objects/frm_box.xml
+c:/program files/icewarp/html/admin/client/objects/frm_main.xml
+c:/program files/icewarp/html/admin/client/objects/fun_bubbles.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountcard.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountdetail.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountemail.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountemail_message.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountinfo.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountinfo_changepwd.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountinfo_features.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountinfo_licenses.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountinfo_os_manage.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountlimits.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountmobiledevices.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountpicker.xml
+c:/program files/icewarp/html/admin/client/objects/obj_accountrules.xml
+c:/program files/icewarp/html/admin/client/objects/obj_actionselect.xml
+c:/program files/icewarp/html/admin/client/objects/obj_audio.xml
+c:/program files/icewarp/html/admin/client/objects/obj_bar.xml
+c:/program files/icewarp/html/admin/client/objects/obj_button.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates_ca.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates_secure_destinations.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates_server.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates_server_add.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates_server_edit.xml
+c:/program files/icewarp/html/admin/client/objects/obj_certificates_server_wizard.xml
+c:/program files/icewarp/html/admin/client/objects/obj_checkbox.xml
+c:/program files/icewarp/html/admin/client/objects/obj_connection.xml
+c:/program files/icewarp/html/admin/client/objects/obj_consoledialog.xml    
